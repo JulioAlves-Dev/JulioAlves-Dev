@@ -1,5 +1,5 @@
 - 👋 Olá, sou @JulioAlves-Dev
-- 👀 Estou interessado em desenvolvimento web e móvel
+- 👀 Estou interessado em desenvolvimento web e mobile
 - 🌱 Atualmente, estou aprendendo JavaScript
 - 💞️ Estou procurando colaborar em projetos
 - 📫 Como entrar em contato comigo:
